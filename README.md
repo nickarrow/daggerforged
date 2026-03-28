@@ -1,12 +1,12 @@
 # Daggerforged
 
-Daggerforged brings Daggerheart's character system into the Sundered Isles rules engine. Play something that feels like Daggerheart—class identity, ancestry, community, domain abilities, progression—while Sundered Isles handles all the underlying mechanics.
+Daggerforged brings Daggerheart's character system into the Sundered Isles (Starforged) rules engine. Play something that feels like Daggerheart's class identity, ancestry, community, domain abilities, and progression, while Sundered Isles (Starforged) handles all the underlying mechanics.
 
-This is an additive asset pack, not a replacement. SI rules stay untouched. Daggerheart provides the character content.
+This is an additive asset pack, not a replacement. SI/SF rules stay untouched. Daggerheart provides the character content.
 
 ## What's Here
 
-Each file contains the original Daggerheart text followed by a "Daggerforged" section with the Sundered Isles conversion.
+Each file contains the original Daggerheart text followed by a "Daggerforged" section with the Sundered Isles conversion. Eventually, I'll remove the original Daggerheart content and format these into pure SI/SF assets, but for now, it is useful to see the original content.
 
 | Asset Type | Count | Status |
 |------------|-------|--------|
@@ -52,6 +52,7 @@ This is a work in progress. If you're from the Ironsworn community and have thou
 - Do the translations feel faithful to Daggerheart's intent?
 - Are there SI mechanics I'm underusing or misusing?
 - Does the Hope economy seem balanced?
+- Hit me up on Discord and/or feel free to [open an issue](https://github.com/nickarrow/daggerforged/issues/new).
 
 ## Attribution
 
