@@ -17,6 +17,15 @@ Each file contains the original Daggerheart text followed by a "Daggerforged" se
 | Domain Abilities | 189 | Not started |
 | Beastforms | 24 | Not started |
 
+## Browse the Assets
+
+- [Ancestries](assets/ancestries/)
+- [Communities](assets/communities/)
+- [Classes](assets/classes/)
+- [Subclasses](assets/subclasses/)
+- Domains — Coming Soon
+- Beastforms — Coming Soon
+
 ## Project Structure
 
 ```
