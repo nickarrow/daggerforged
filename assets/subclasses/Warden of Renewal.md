@@ -14,32 +14,10 @@ Instinct
 
 ---
 
-#### DAGGERFORGED FOUNDATION FEATURES
+#### DAGGERFORGED SUBCLASS ABILITIES
 
-**_Clarity of Nature:_** Once per session, you can create a space of natural serenity nearby. When you and your allies spend a few minutes resting within the space, distribute +3 Spirit among yourselves as you choose.
+**[Foundation]** _Clarity of Nature:_ Once per session, you can create a space of natural serenity nearby. When you and your allies spend a few minutes resting within the space, distribute +3 Spirit among yourselves as you choose. _Regeneration:_ Touch a creature and **spend 3 Hope.** That creature takes +2 health.
 
-**_Regeneration:_** Touch a creature and **spend 3 Hope.** That creature takes +2 health.
+**[Specialization]** _Regenerative Reach:_ You can use your Regeneration feature on any creature you can see, not just those you can touch. _Warden's Protection:_ Once per session, **spend 2 Hope** to restore +1 health to up to 3 allies you can see.
 
-### SPECIALIZATION FEATURES
-
-**_Regenerative Reach:_** You can target creatures within Very Close range with your "Regeneration" feature.
-
-**_Warden's Protection:_** Once per long rest, **spend 2 Hope** to clear 2 Hit Points on **1d4** allies within Close range.
-
----
-
-#### DAGGERFORGED SPECIALIZATION FEATURES
-
-**_Regenerative Reach:_** You can use your Regeneration feature on any creature you can see, not just those you can touch.
-
-**_Warden's Protection:_** Once per session, **spend 2 Hope** to restore +1 health to up to 3 allies you can see.
-
-### MASTERY FEATURE
-
-**_Defender:_** Your animal transformation embodies a healing guardian spirit. When you're in Beastform and an ally within Close range marks 2 or more Hit Points, you can **mark a Stress** to reduce the number of Hit Points they mark by 1.
-
----
-
-#### DAGGERFORGED MASTERY FEATURE
-
-**_Defender:_** Your animal transformation embodies a healing guardian spirit. When you're in Beastform and an ally you can see suffers 2 or more harm, you may **suffer -1 Spirit** to reduce their harm by 1.
+**[Mastery]** _Defender:_ Your animal transformation embodies a healing guardian spirit. When you're in Beastform and an ally you can see suffers 2 or more harm, you may **suffer -1 Spirit** to reduce their harm by 1.

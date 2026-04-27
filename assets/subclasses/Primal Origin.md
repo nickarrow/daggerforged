@@ -17,31 +17,10 @@ Instinct
 
 ---
 
-#### DAGGERFORGED FOUNDATION FEATURE
+#### DAGGERFORGED SUBCLASS ABILITIES
 
-**_Manipulate Magic:_** Your primal origin allows you to modify the essence of magic itself. When you Strike or Clash using magic, you may **suffer -1 Spirit** to do one of the following:
+**[Foundation]** _Manipulate Magic:_ Your primal origin allows you to modify the essence of magic itself. When you Strike or Clash using magic, you may **suffer -1 Spirit** to do one of the following: Extend the attack's reach (hit a target at greater distance) / Add +2 to the roll after seeing the result / If you hit, mark progress an additional time / If you hit, mark progress against an additional target within range.
 
-- Extend the attack's reach (hit a target at greater distance)
-- Add +2 to the roll after seeing the result
-- If you hit, mark progress an additional time
-- If you hit, mark progress against an additional target within range
+**[Specialization]** _Enchanted Aid:_ You can enhance the magic of others with your essence. When you Aid Your Ally on a magical action, they gain +2 instead of +1. Once per session, after an ally makes a magical action roll with your aid, you may have them reroll the challenge dice.
 
-### SPECIALIZATION FEATURE
-
-**_Enchanted Aid:_** You can enhance the magic of others with your essence. When you Help an Ally with a Spellcast Roll, you can roll a **d8** as your advantage die. Once per long rest, after an ally has made a Spellcast Roll with your help, you can swap the results of their Duality Dice.
-
----
-
-#### DAGGERFORGED SPECIALIZATION FEATURE
-
-**_Enchanted Aid:_** You can enhance the magic of others with your essence. When you Aid Your Ally on a magical action, they gain +2 instead of +1. Once per session, after an ally makes a magical action roll with your aid, you may have them reroll the challenge dice.
-
-### MASTERY FEATURE
-
-**_Arcane Charge:_** You can gather magical energy to enhance your capabilities. When you take magic damage, you become _Charged_. Alternatively, you can **spend 2 Hope** to become _Charged_. When you successfully make an attack that deals magic damage while _Charged_, you can clear your _Charge_ to either gain a +10 bonus to the damage roll or gain a +3 bonus to the Difficulty of a reaction roll the spell causes the target to make. You stop being _Charged_ at your next long rest.
-
----
-
-#### DAGGERFORGED MASTERY FEATURE
-
-**_Arcane Charge:_** You can gather magical energy to enhance your capabilities. When you suffer harm from magic, you become _Charged_. Alternatively, you can **spend 2 Hope** to become _Charged_. When you Strike or Clash using magic while Charged, you may clear your Charge to choose one: mark progress twice additional times, or put the target in a bad spot (the next roll against them gains +2). You stop being Charged when you Sojourn.
+**[Mastery]** _Arcane Charge:_ You can gather magical energy to enhance your capabilities. When you suffer harm from magic, you become _Charged_. Alternatively, you can **spend 2 Hope** to become _Charged_. When you Strike or Clash using magic while Charged, you may clear your Charge to choose one: mark progress twice additional times, or put the target in a bad spot (the next roll against them gains +2). You stop being Charged when you Sojourn.

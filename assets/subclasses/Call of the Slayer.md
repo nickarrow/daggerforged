@@ -8,26 +8,10 @@ Play the Call of the Slayer if you want to strike down adversaries with immense 
 
 ---
 
-#### DAGGERFORGED FOUNDATION FEATURE
+#### DAGGERFORGED SUBCLASS ABILITIES
 
-**_Slayer:_** You have a Slayer track with 4 boxes. When your action die shows 4+ on any roll, you may forgo gaining Hope to instead mark one box on your Slayer track. When you Strike or Clash, you may clear any number of marked boxes to add +1 per box cleared to your roll. At the end of each session, gain +1 Hope for each marked box, then clear the track.
+**[Foundation]** _Slayer:_ You have a Slayer track with 4 boxes. When your action die shows 4+ on any roll, you may forgo gaining Hope to instead mark one box on your Slayer track. When you Strike or Clash, you may clear any number of marked boxes to add +1 per box cleared to your roll. At the end of each session, gain +1 Hope for each marked box, then clear the track.
 
-### SPECIALIZATION FEATURE
+**[Specialization]** _Weapon Specialist:_ You can wield multiple weapons with dangerous ease. When you Strike or Clash and score a hit, you may **spend 1 Hope** to mark progress an additional time. Additionally, once per session when you spend Slayer boxes, add +1 to the total bonus.
 
-**_Weapon Specialist:_** You can wield multiple weapons with dangerous ease. When you succeed on an attack, you can **spend a Hope** to add one of the damage dice from your secondary weapon to the damage roll. Additionally, once per long rest when you roll your Slayer Dice, reroll any 1s.
-
----
-
-#### DAGGERFORGED SPECIALIZATION FEATURE
-
-**_Weapon Specialist:_** You can wield multiple weapons with dangerous ease. When you Strike or Clash and score a hit, you may **spend 1 Hope** to mark progress an additional time. Additionally, once per session when you spend Slayer boxes, add +1 to the total bonus.
-
-### MASTERY FEATURE
-
-**_Martial Preparation:_** You're an inspirational warrior to all who travel with you. Your party gains access to the Martial Preparation downtime move. To use this move during a rest, describe how you instruct and train with your party. You and each ally who chooses this downtime move gain a **d6** Slayer Die. A PC with a Slayer Die can spend it to roll the die and add the result to an attack or damage roll of their choice.
-
----
-
-#### DAGGERFORGED MASTERY FEATURE
-
-**_Martial Preparation:_** You're an inspirational warrior to all who travel with you. When you Sojourn, you may describe how you instruct and train with your party. You and each ally who participates gain a Slayer token. A character with a Slayer token may spend it when they Strike or Clash to add +2 to the roll. Slayer tokens are lost at the end of the session.
+**[Mastery]** _Martial Preparation:_ You're an inspirational warrior to all who travel with you. When you Sojourn, you may describe how you instruct and train with your party. You and each ally who participates gain a Slayer token. A character with a Slayer token may spend it when they Strike or Clash to add +2 to the roll. Slayer tokens are lost at the end of the session.

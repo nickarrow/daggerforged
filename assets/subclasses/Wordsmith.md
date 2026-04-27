@@ -14,36 +14,10 @@ Presence
 
 ---
 
-#### DAGGERFORGED FOUNDATION FEATURES
+#### DAGGERFORGED SUBCLASS ABILITIES
 
-**_Rousing Speech:_** Once per session, you can give a heartfelt, inspiring speech. All allies who can hear you take +2 Spirit.
+**[Foundation]** _Rousing Speech:_ Once per session, you can give a heartfelt, inspiring speech. All allies who can hear you take +2 Spirit. _Heart of a Poet:_ When you Compel, Gather Information, or make any roll to impress, persuade, or offend someone, you may **spend 1 Hope** to add +1 to the roll after seeing the result.
 
-**_Heart of a Poet:_** When you Compel, Gather Information, or make any roll to impress, persuade, or offend someone, you may **spend 1 Hope** to add +1 to the roll after seeing the result.
+**[Specialization]** _Eloquent:_ Your moving words boost morale. Once per session, when you encourage an ally, choose one: They find a mundane object or tool they need (narrative permission) / You Aid Your Ally without spending momentum / When they next Sojourn, they may make one additional recover move.
 
-### SPECIALIZATION FEATURE
-
-**_Eloquent:_** Your moving words boost morale. Once per session, when you encourage an ally, you can do one of the following:
-
-- Allow them to find a mundane object or tool they need.
-- Help an Ally without spending Hope.
-- Give them an additional downtime move during their next rest.
-
----
-
-#### DAGGERFORGED SPECIALIZATION FEATURE
-
-**_Eloquent:_** Your moving words boost morale. Once per session, when you encourage an ally, choose one:
-
-- They find a mundane object or tool they need (narrative permission).
-- You Aid Your Ally without spending momentum.
-- When they next Sojourn, they may make one additional recover move.
-
-### MASTERY FEATURE
-
-**_Epic Poetry:_** Your Rally Die increases to a **d10.** Additionally, when you Help an Ally, you can narrate the moment as if you were writing the tale of their heroism in a memoir. When you do, roll a **d10** as your advantage die.
-
----
-
-#### DAGGERFORGED MASTERY FEATURE
-
-**_Epic Poetry:_** When you use your Rally class feature, allies gain +3 momentum instead of +2. Additionally, when you Aid Your Ally, you may narrate the moment as if writing the tale of their heroism. When you do, they take +2 on the roll instead of +1.
+**[Mastery]** _Epic Poetry:_ When you use your Rally class feature, allies gain +3 momentum instead of +2. Additionally, when you Aid Your Ally, you may narrate the moment as if writing the tale of their heroism. When you do, they take +2 on the roll instead of +1.

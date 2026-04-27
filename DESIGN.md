@@ -128,13 +128,15 @@ The Class asset also contains the Hope track (0-6), used to fuel Hope Features a
 
 ### Subclass Asset
 
-Each Daggerheart subclass becomes a Subclass asset with three sequentially gated abilities:
+Each Daggerheart subclass becomes a Subclass asset with three sequentially gated abilities. Each ability represents a tier and bundles all features gained at that tier into a single text block. This keeps every subclass on a standard 3-ability card regardless of how many individual features exist at each tier.
 
-- Ability 1 (Foundation): unlocked at character creation
-- Ability 2 (Specialization): XP unlock, requires Ability 1
-- Ability 3 (Mastery): XP unlock, requires Ability 2
+- Ability 1 (Foundation): unlocked at character creation. Contains all Foundation features.
+- Ability 2 (Specialization): XP unlock, requires Ability 1. Contains all Specialization features.
+- Ability 3 (Mastery): XP unlock, requires Ability 2. Contains all Mastery features.
 
 Sequential gating is enforced. Ability 2 can't be taken before Ability 1, and Ability 3 can't be taken before Ability 2. This recreates Daggerheart's Foundation/Specialization/Mastery progression using native SI XP mechanics.
+
+When a tier has multiple features, they are all gained simultaneously when that tier is unlocked. The bundled format makes this explicit — unlocking Specialization gives you everything in the Specialization text block, not individual features to cherry-pick.
 
 
 ---
@@ -676,7 +678,7 @@ All 18 subclasses converted with Daggerforged sections added below the original 
 
 Review Notes:
 - Spellcast stats preserved in original text but not added to Daggerforged sections (stats written into individual features as needed)
-- All features at each tier converted (players get all features when unlocking a tier)
+- All features at each tier bundled into a single ability (Foundation/Specialization/Mastery = 3 abilities per card)
 - Tag Team Roll → Aid Your Ally with bonuses
 - d20 Hope Die mechanics → flat +2 bonuses in relevant situations
 - Proficiency scaling → dropped or converted to flat bonuses

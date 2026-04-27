@@ -14,43 +14,13 @@ Take the Ranger Companion sheet. When you level up your character, choose a leve
 
 ---
 
-#### DAGGERFORGED FOUNDATION FEATURE
+#### DAGGERFORGED SUBCLASS ABILITIES
 
-**_Companion:_** You have an animal companion of your choice. They stay by your side unless you tell them otherwise. Your companion functions as a Companion asset with 4 health. When you command your companion to act, roll +Edge. On a strong hit, they succeed and you take +1 momentum. On a weak hit, they succeed but are put in a bad spot or suffer -1 health. On a miss, they fail and suffer -1 health or you Pay the Price.
+**[Foundation]** _Companion:_ You have an animal companion of your choice. They stay by your side unless you tell them otherwise. Your companion functions as a Companion asset with 4 health. When you command your companion to act, roll +Edge. On a strong hit, they succeed and you take +1 momentum. On a weak hit, they succeed but are put in a bad spot or suffer -1 health. On a miss, they fail and suffer -1 health or you Pay the Price. When you advance a tier, you may choose one companion upgrade: _Intelligent:_ Add +1 when commanding your companion for a specific type of action (choose one: scouting, combat, social). _Vicious:_ When your companion attacks and you score a hit, mark progress an additional time. _Resilient:_ Your companion gains +1 max health. _Bonded:_ When you would be reduced to 0 health and your companion is nearby, they rush to your side. Roll your action die; on 4+, take +1 health instead.
 
-When you advance a tier, you may choose one companion upgrade:
-- _Intelligent:_ Add +1 when commanding your companion for a specific type of action (choose one: scouting, combat, social).
-- _Vicious:_ When your companion attacks and you score a hit, mark progress an additional time.
-- _Resilient:_ Your companion gains +1 max health.
-- _Bonded:_ When you would be reduced to 0 health and your companion is nearby, they rush to your side. Roll your action die; on 4+, take +1 health instead.
+**[Specialization]** _Expert Training:_ Choose an additional companion upgrade from the Companion feature list. _Battle-Bonded:_ When you React Under Fire and your companion is at close quarters with the attacker, add +2.
 
-### SPECIALIZATION FEATURES
-
-**_Expert Training:_** Choose an additional level-up option for your companion.
-
-**_Battle-Bonded:_** When an adversary attacks you while they're within your companion's Melee range, you gain a +2 bonus to your Evasion against the attack.
-
----
-
-#### DAGGERFORGED SPECIALIZATION FEATURES
-
-**_Expert Training:_** Choose an additional companion upgrade from the Companion feature list.
-
-**_Battle-Bonded:_** When you React Under Fire and your companion is at close quarters with the attacker, add +2.
-
-### MASTERY FEATURES
-
-**_Advanced Training:_** Choose two additional level-up options for your companion.
-
-**_Loyal Friend:_** Once per long rest, when the damage from an attack would mark your companion's last Stress or your last Hit Point and you're within Close range of each other, you or your companion can rush to the other's side and take that damage instead.
-
----
-
-#### DAGGERFORGED MASTERY FEATURES
-
-**_Advanced Training:_** Choose two additional companion upgrades from the Companion feature list.
-
-**_Loyal Friend:_** Once per session, when harm would reduce your companion to 0 health or you to 0 health, and you are near each other, you or your companion can rush to the other's side and suffer the harm instead.
+**[Mastery]** _Advanced Training:_ Choose two additional companion upgrades from the Companion feature list. _Loyal Friend:_ Once per session, when harm would reduce your companion to 0 health or you to 0 health, and you are near each other, you or your companion can rush to the other's side and suffer the harm instead.
 
 ### RANGER COMPANION
 

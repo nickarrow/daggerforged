@@ -10,28 +10,10 @@ Play the Call of the Brave if you want to use the might of your enemies to fuel 
 
 ---
 
-#### DAGGERFORGED FOUNDATION FEATURES
+#### DAGGERFORGED SUBCLASS ABILITIES
 
-**_Courage:_** When you score a miss and your action die shows 1-3, gain +1 Hope.
+**[Foundation]** _Courage:_ When you score a miss and your action die shows 1-3, gain +1 Hope. _Battle Ritual:_ Once per session, before you attempt something incredibly dangerous or face off against a foe who clearly outmatches you, describe what ritual you perform or preparations you make. When you do, take +2 Spirit and +2 Hope.
 
-**_Battle Ritual:_** Once per session, before you attempt something incredibly dangerous or face off against a foe who clearly outmatches you, describe what ritual you perform or preparations you make. When you do, take +2 Spirit and +2 Hope.
+**[Specialization]** _Rise to the Challenge:_ You are vigilant in the face of mounting danger. While you have 2 or fewer health remaining, add +2 to all combat rolls.
 
-### SPECIALIZATION FEATURE
-
-**_Rise to the Challenge:_** You are vigilant in the face of mounting danger. While you have 2 or fewer Hit Points unmarked, you can roll a **d20** as your Hope Die.
-
----
-
-#### DAGGERFORGED SPECIALIZATION FEATURE
-
-**_Rise to the Challenge:_** You are vigilant in the face of mounting danger. While you have 2 or fewer health remaining, add +2 to all combat rolls.
-
-### MASTERY FEATURE
-
-**_Camaraderie:_** Your unwavering bravery is a rallying point for your allies. You can initiate a Tag Team Roll one additional time per session. Additionally, when an ally initiates a Tag Team Roll with you, they only need to spend 2 Hope to do so.
-
----
-
-#### DAGGERFORGED MASTERY FEATURE
-
-**_Camaraderie:_** Your unwavering bravery is a rallying point for your allies. Once per session, when an ally within close quarters would suffer harm, you may suffer it instead. Additionally, when you Aid Your Ally in combat, they take +1 momentum on a hit in addition to the normal benefits.
+**[Mastery]** _Camaraderie:_ Your unwavering bravery is a rallying point for your allies. Once per session, when an ally within close quarters would suffer harm, you may suffer it instead. Additionally, when you Aid Your Ally in combat, they take +1 momentum on a hit in addition to the normal benefits.
